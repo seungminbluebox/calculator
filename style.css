@@ -1,0 +1,9 @@
+/* style.css */
+.whole {
+  display: flex; /* Flexbox 활성화 */
+  flex-direction: column; /* 세로 방향으로 배치 */
+  align-items: center; /* 자식 요소를 가로로 가운데 정렬 */
+  justify-content: center; /* 자식 요소를 세로로 가운데 정렬 */
+  height: 100vh; /* 화면 전체 높이 */
+  text-align: center; /* 텍스트 가운데 정렬 */
+}
